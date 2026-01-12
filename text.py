@@ -1,0 +1,1 @@
+print ('hallo ini repo pertama gue!')
